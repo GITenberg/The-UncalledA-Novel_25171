@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6269
     wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25171#The-UncalledA-Novel
 gutenberg_issued: '2008-04-25'
 gutenberg_type: Text
 identifiers:
