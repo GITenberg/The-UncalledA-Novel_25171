@@ -1,0 +1,30 @@
+_repo: The-UncalledA-Novel_25171
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25171-h/images/cover1a.jpg
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Religious fiction'
+- !lcsh 'Spiritual life -- Fiction'
+title: 'The Uncalled
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/25171
